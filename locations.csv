@@ -1,0 +1,22 @@
+location_key,location_name,state,region,timezone,company_id,business_id,active
+APEX,Apex,NC,NC,America/New_York,cop0uJi,biz3oXO,true
+KIRKLAND,Kirkland,WA,WA,America/Los_Angeles,copc0mQ,bizkTuG,true
+KANSAS_CITY,Kansas City,MO,KCMO,America/Chicago,copokxr,bizVFwl,true
+ELKHORN,Elkhorn,NE,NE,America/Chicago,cop0XOg,bizchee,false
+GRETNA,Gretna,NE,NE,America/Chicago,copo3og,bizyY5Q,true
+SPRINGFIELD,Springfield,MO,MO,America/Chicago,copyv3e,bizT43O,false
+SPOKANE,Spokane Valley,WA,WA,America/Los_Angeles,cop5sPj,biz1mzX,true
+BENNINGTON,Bennington,NE,NE,America/Chicago,cop0LSg,biz2C4J,true
+JERSEY_CITY,Jersey City,NJ,NJ,America/New_York,cop5N8K,bizTV4Y,true
+OVERTON,Overland Park,KS,KCMO,America/Chicago,copaK4w,biz08Ng,true
+INDEPENDENCE,Independence,MO,KCMO,America/Chicago,cop57Sj,biz1JqX,true
+LAKE_CHARLES,Lake Charles,LA,LA,America/Chicago,copIMf9,bizk6zO,false
+VIRGINIA_BEACH,Virginia Beach (Gypsy),VA,VA,America/New_York,copyvqQ,bizpe6Y,true
+SAVANNAH,Savannah (Jasden),GA,GA,America/New_York,coposOg,biz1pGY,true
+LEES_SUMMIT,Lees Summit,MO,KCMO,America/Chicago,copcWqe,biz1B6X,true
+GADSDEN,Gadsden,AL,AL,America/Chicago,copnUBd,bizkJmJ,false
+OMAHA,Omaha,NE,NE,America/Chicago,copyLFr,biz1C3e,true
+PEACHTREE_CITY,Peachtree City,GA,GA,America/New_York,cop5ysK,bizcwTr,true
+HUBER_HEIGHTS,Huber Heights,OH,OH,America/New_York,copaWUw,bizkraO,true
+LUCKY,Virginia Beach (Lucky),VA,VA,America/New_York,copqUcK,bizTzTG,true
+WEST_NASHVILLE,West Nashville,TN,TN,America/Chicago,copa34x,bizctAi,true

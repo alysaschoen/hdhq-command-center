@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "font-viewer",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "streamlit", "run", "font-viewer/app.py",
+                      "--server.port", "8533",
+                      "--server.headless", "true",
+                      "--browser.gatherUsageStats", "false"],
+      "port": 8533
+    }
+  ]
+}

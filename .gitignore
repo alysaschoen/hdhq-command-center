@@ -1,0 +1,40 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Local token cache
+.zoho_token_cache.json
+
+state.json
+data/
+logs/
+
+# Unrelated projects that live in this folder
+chirding/
+chirdupe/
+font-viewer/
+paws-and-pints/
